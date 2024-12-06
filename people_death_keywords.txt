@@ -27,3 +27,5 @@ chôn
 hi_sinh
 vĩnh
 đoạn
+mạng
+thiệt
